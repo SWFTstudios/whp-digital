@@ -38,3 +38,20 @@ build/
 *.tmp
 *.temp
 .cache/
+
+# Exclude original large video files (we only use -transcode versions)
+# Keep transcode versions - they're all under 25MB
+videos/16393893-uhd_2560_1440_30fps-720p.mp4
+videos/5434220-hd_1920_1080_24fps.mp4
+videos/8964380-uhd_3840_2160_25fps.mp4
+videos/aerial_footage_of_data_center_or_factory.mp4
+videos/aiconstruction.mp4
+videos/data_flyover.mp4
+videos/datacenterwithwater.mp4
+videos/hero_4.mp4
+videos/smooth_slow_aerial_drone_footage_flying_overlooking-2.mp4
+videos/smooth_slow_aerial_drone_footage_flying_overlooking.mp4
+videos/smooth_slow_aerial_drone_footage_over_looking-2.mp4
+videos/walking_through_a_hallway_of_a_data-3.mp4
+videos/westernhp-men.mp4
+videos/whp_windmill__intro-1080p.mp4
